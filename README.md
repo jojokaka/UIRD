@@ -15,7 +15,6 @@ UIRD is the first benchmark dataset specifically designed for evaluating **under
 - **Training Set:** 7,395 images (last 72 categories)
 - **Test Set:** 3,186 images (first 67 categories)  
 - **Query Set:** 156 images (sampled from test set)
-- **Junk Images:** ~15% of total (filtered during evaluation)
 
 ## Citation
 If you use UIRD, please cite:
