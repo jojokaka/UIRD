@@ -1,5 +1,4 @@
-# UIRD
-Underwater Image Retrieval Dataset
+# UIRD: Underwater Image Retrieval Dataset
 
 ##Data Sources
 The images in this dataset are derived from:
@@ -12,9 +11,13 @@ UIRD is the first benchmark dataset specifically designed for evaluating **under
 **Key Statistics:**
 - **Total Images:** 10,581
 - **Categories:** 139 underwater scenes. The first three characters of the image name should be the identification number of the landmark image it belongs to.
-- **Training Set:** 7,395 images (last 72 categories)
-- **Test Set:** 3,186 images (first 67 categories)  
+- **Training Set:** 7,395 images (72 categories)
+- **Test Set:** 3,186 images (67 categories)  
 - **Query Set:** 156 images (sampled from test set)
+
+# Downloads
+
+- **The whole datasets [[Baidu Cloud]](https://pan.baidu.com/s/1HLMqB7XaxsJFw2rFvnRvAw)(Extraction code: e966)**
 
 ## Citation
 If you use UIRD, please cite:
